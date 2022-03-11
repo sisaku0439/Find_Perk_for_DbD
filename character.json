@@ -1,0 +1,500 @@
+{
+    "killer": {
+        "キラー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/IconHelpLoading_killer.png",
+            "image_path": "./image/character/killer/キラー.png",
+            "perks": [
+                "ずさんな肉屋",
+                "とどめの一撃",
+                "まやかし",
+                "アイアンメイデン",
+                "イタチが飛び出した",
+                "イラプション",
+                "オーバーチャージ",
+                "ガラクタいじり",
+                "スターに憧れて",
+                "デスバウンド",
+                "デッドロック",
+                "ドラゴンの掌握",
+                "ノックアウト",
+                "バーベキュー＆チリ",
+                "ピエロ恐怖症",
+                "ファイヤー・アップ",
+                "フラクリンの悲劇",
+                "リメンバー・ミー",
+                "不協和音",
+                "不吉な包囲",
+                "不安の元凶",
+                "不安を煽る者",
+                "不屈",
+                "伝播する怖気",
+                "光より出でし者",
+                "処刑人の妙技",
+                "呪術：クラウドコントロール",
+                "呪術：ペンティメント",
+                "呪術：不死",
+                "呪術：報復",
+                "呪術：女狩人の子守唄",
+                "呪術：狩りの興奮",
+                "呪術：玩具",
+                "呪術：破滅",
+                "呪術：第三の封印",
+                "呪術：血の恩恵",
+                "呪術：誰も死から逃れられない",
+                "呪術：貪られる希望",
+                "呪術：霊障の地",
+                "喘鳴",
+                "囁き",
+                "圧倒的存在感",
+                "地獄耳",
+                "堕落の介入",
+                "変速機",
+                "天誅",
+                "弄ばれる獲物",
+                "強制苦行",
+                "影の密偵",
+                "忍び寄る者",
+                "怒涛の嵐",
+                "怨恨",
+                "怨霊の怒り",
+                "悶絶のフック：共鳴する苦痛",
+                "悶絶のフック：氾濫する憤怒",
+                "悶絶のフック：苦痛という名の賜り物",
+                "憎悪の囁き",
+                "戦慄",
+                "捕食者",
+                "景気づけ",
+                "最後のお楽しみ",
+                "死を呼ぶ追跡者",
+                "死人のスイッチ",
+                "死恐怖症",
+                "残心の戦術",
+                "海の呼び声",
+                "消えゆく灯",
+                "溜め込み屋",
+                "無慈悲",
+                "煩悶のトレイル",
+                "狂気の根性",
+                "狡猾",
+                "猛獣",
+                "異形の祭壇",
+                "監視",
+                "看護婦の使命",
+                "縄張り意識",
+                "興奮",
+                "苦悶の根源",
+                "血の共鳴",
+                "血の番人",
+                "血の追跡者",
+                "袋小路",
+                "観察＆虐待",
+                "迫害",
+                "選択は君次第だ",
+                "野蛮な力",
+                "鋼の握力",
+                "閉所恐怖症",
+                "闇の信仰心",
+                "闇より出でし者",
+                "隠密の追跡",
+                "集団ヒステリー"
+            ]
+        },
+        "トラッパー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/K01_charSelect_portrait.png",
+            "image_path": "./image/character/killer/トラッパー.png",
+            "perks": []
+        },
+        "レイス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/K02_charSelect_portrait.png",
+            "image_path": "./image/character/killer/レイス.png",
+            "perks": []
+        },
+        "ヒルビリー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/K03_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ヒルビリー.png",
+            "perks": []
+        },
+        "ナース": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/K04_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ナース.png",
+            "perks": []
+        },
+        "シェイプ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/K05_charSelect_portrait.png",
+            "image_path": "./image/character/killer/シェイプ.png",
+            "perks": []
+        },
+        "ハグ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/K06_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ハグ.png",
+            "perks": []
+        },
+        "ドクター": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/K07_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ドクター.png",
+            "perks": []
+        },
+        "ハントレス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/K08_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ハントレス.png",
+            "perks": []
+        },
+        "カニバル": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/K09_charSelect_portrait.png",
+            "image_path": "./image/character/killer/カニバル.png",
+            "perks": []
+        },
+        "ナイトメア": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/K10_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ナイトメア.png",
+            "perks": []
+        },
+        "ピッグ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/K11_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ピッグ.png",
+            "perks": []
+        },
+        "クラウン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/K12_charSelect_portrait.png",
+            "image_path": "./image/character/killer/クラウン.png",
+            "perks": []
+        },
+        "スピリット": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/K13_charSelect_portrait.png",
+            "image_path": "./image/character/killer/スピリット.png",
+            "perks": []
+        },
+        "リージョン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/K14_charSelect_portrait.png",
+            "image_path": "./image/character/killer/リージョン.png",
+            "perks": []
+        },
+        "プレイグ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/K15_charSelect_portrait.png",
+            "image_path": "./image/character/killer/プレイグ.png",
+            "perks": []
+        },
+        "ゴーストフェイス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/K16_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ゴーストフェイス.png",
+            "perks": []
+        },
+        "デモゴルゴン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png",
+            "image_path": "./image/character/killer/デモゴルゴン.png",
+            "perks": []
+        },
+        "鬼": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/K18_charSelect_portrait.png",
+            "image_path": "./image/character/killer/鬼.png",
+            "perks": []
+        },
+        "デススリンガー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K19_charSelect_portrait.png",
+            "image_path": "./image/character/killer/デススリンガー.png",
+            "perks": []
+        },
+        "エクセキューショナー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/K20_charSelect_portrait.png",
+            "image_path": "./image/character/killer/エクセキューショナー.png",
+            "perks": []
+        },
+        "ブライト": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/K21_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ブライト.png",
+            "perks": []
+        },
+        "ツインズ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/K22_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ツインズ.png",
+            "perks": []
+        },
+        "トリックスター": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/K23_charSelect_portrait.png",
+            "image_path": "./image/character/killer/トリックスター.png",
+            "perks": []
+        },
+        "ネメシス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K24_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ネメシス.png",
+            "perks": []
+        },
+        "セノバイト": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/K25_charSelect_portrait.png",
+            "image_path": "./image/character/killer/セノバイト.png",
+            "perks": []
+        },
+        "アーティスト": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/K26_charSelect_portrait.png",
+            "image_path": "./image/character/killer/アーティスト.png",
+            "perks": []
+        },
+        "怨霊": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/K27_charSelect_portrait.png",
+            "image_path": "./image/character/killer/怨霊.png",
+            "perks": []
+        }
+    },
+    "survivor": {
+        "サバイバー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/IconHelpLoading_survivor.png",
+            "image_path": "./image/character/survivor/サバイバー.png",
+            "perks": [
+                "おとり",
+                "きっとやり遂げる",
+                "しなやか",
+                "ずっと一緒だ",
+                "アドレナリン",
+                "アフターケア",
+                "ウィンドウズ・オブ・オポチュニティ",
+                "オフレコ",
+                "カウンターフォース",
+                "コソ泥の本能",
+                "サボタージュ",
+                "スタングレネード",
+                "スマートな着地",
+                "セルフケア",
+                "ソウルガード",
+                "ダンス・ウィズ・ミー",
+                "ツルツルした肉体",
+                "テクニシャン",
+                "ディストーション",
+                "デジャブ",
+                "デッドハード",
+                "フリップ・フロップ",
+                "ブレイクダウン",
+                "ベルトを閉めろ",
+                "ボイルオーバー",
+                "リニューアル",
+                "リーダー",
+                "不滅",
+                "与えられた猶予",
+                "予感",
+                "人々のために",
+                "全力疾走",
+                "共感",
+                "共感的つながり",
+                "内なる回復",
+                "凍りつく背筋",
+                "出世街道",
+                "刑事の直感",
+                "勢力争い",
+                "千里眼",
+                "唯一の生存者",
+                "地雷爆破",
+                "執念",
+                "執念の対象",
+                "大ヒット",
+                "寝ずの番",
+                "小さな獲物",
+                "希望",
+                "平常心",
+                "弱音はナシだ",
+                "張り込み",
+                "強硬手段",
+                "忍苦の時",
+                "怪我の功名",
+                "恵み：シャドウステップ",
+                "恵み：指数関数",
+                "恵み：癒やしの輪",
+                "恵み：霊界理論",
+                "手札公開",
+                "打開策",
+                "抑圧の同盟",
+                "新人魂",
+                "是正措置",
+                "最後の切り札",
+                "有能の証明",
+                "査定",
+                "植物学の知識",
+                "欺き",
+                "決死の一撃",
+                "父の助言",
+                "状況認識",
+                "独学者",
+                "痛みも気から",
+                "監視者",
+                "目を覚ませ！",
+                "真っ向勝負",
+                "突破",
+                "素早く静かに",
+                "絆",
+                "置き去りにされた者",
+                "耐久設計",
+                "自己認識",
+                "自己防衛",
+                "苦肉の策",
+                "英雄の奮起",
+                "血の協定",
+                "血族",
+                "親近感",
+                "解放",
+                "誰も見捨てはしない",
+                "調剤学",
+                "警戒",
+                "賭け金のレイズ",
+                "起死回生",
+                "身軽",
+                "逆境魂",
+                "透視家",
+                "連帯感",
+                "都会の生存術",
+                "都会の逃走術",
+                "鋼の意志",
+                "闇の感覚",
+                "陽動",
+                "魂の平穏"
+            ]
+        },
+        "ドワイト・フェアフィールド": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/S01_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ドワイト・フェアフィールド.png",
+            "perks": []
+        },
+        "メグ・トーマス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/S02_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/メグ・トーマス.png",
+            "perks": []
+        },
+        "クローデット・モレル": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/65/S03_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/クローデット・モレル.png",
+            "perks": []
+        },
+        "ジェイク・パーク": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/S04_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ジェイク・パーク.png",
+            "perks": []
+        },
+        "ネア・アールソン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/S05_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ネア・アールソン.png",
+            "perks": []
+        },
+        "ローリー・ストロード": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/S06_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ローリー・ストロード.png",
+            "perks": []
+        },
+        "エース・ヴィスコンティ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/S07_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/エース・ヴィスコンティ.png",
+            "perks": []
+        },
+        "ウィリアム・”ビル”・オーバーベック": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/66/S08_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ウィリアム・”ビル”・オーバーベック.png",
+            "perks": []
+        },
+        "フェン・ミン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/S09_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/フェン・ミン.png",
+            "perks": []
+        },
+        "デイビット・キング": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/S10_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/デイビット・キング.png",
+            "perks": []
+        },
+        "クエンティン・スミス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/S11_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/クエンティン・スミス.png",
+            "perks": []
+        },
+        "タップ刑事": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/S12_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/タップ刑事.png",
+            "perks": []
+        },
+        "ケイト・デンソン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/S13_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ケイト・デンソン.png",
+            "perks": []
+        },
+        "アダム・フランシス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/S14_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/アダム・フランシス.png",
+            "perks": []
+        },
+        "ジェフ・ヨハンセン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b9/S15_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ジェフ・ヨハンセン.png",
+            "perks": []
+        },
+        "ジェーン・ロメロ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d7/S16_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ジェーン・ロメロ.png",
+            "perks": []
+        },
+        "アッシュレイ・J・ウィリアムズ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/78/S17_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/アッシュレイ・J・ウィリアムズ.png",
+            "perks": []
+        },
+        "ナンシー・ウィーラー": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/S18_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ナンシー・ウィーラー.png",
+            "perks": []
+        },
+        "スティーブ・ハリントン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/S19_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/スティーブ・ハリントン.png",
+            "perks": []
+        },
+        "木村結衣": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/S20_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/木村結衣.png",
+            "perks": []
+        },
+        "ザリーナ・カッシル": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/S21_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ザリーナ・カッシル.png",
+            "perks": []
+        },
+        "シェリル・メイソン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/38/S22_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/シェリル・メイソン.png",
+            "perks": []
+        },
+        "フェリックス・リクター": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/S23_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/フェリックス・リクター.png",
+            "perks": []
+        },
+        "エロディー・ラコト": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/S24_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/エロディー・ラコト.png",
+            "perks": []
+        },
+        "リー・ユンジン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/S25_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/リー・ユンジン.png",
+            "perks": []
+        },
+        "ジル・バレンタイン": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/S26_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ジル・バレンタイン.png",
+            "perks": []
+        },
+        "レオン・S・ケネディ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/S27_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/レオン・S・ケネディ.png",
+            "perks": []
+        },
+        "ミカエラ・リード": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/S28_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ミカエラ・リード.png",
+            "perks": []
+        },
+        "ジョナ・バスケス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/S29_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ジョナ・バスケス.png",
+            "perks": []
+        },
+        "浅川陽一": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/S30_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/浅川陽一.png",
+            "perks": []
+        }
+    }
+}

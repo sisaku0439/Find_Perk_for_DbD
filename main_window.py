@@ -37,6 +37,9 @@ class MainFrame (wx.Frame):
 
         self.SetIcon(wx.Icon('./Find_Perk_for_DbD.exe', wx.BITMAP_TYPE_ICO))
         self.status_bar = self.CreateStatusBar()
+        self.status_bar.SetFieldsCount(2)
+        self.status_bar.SetStatusWidths([-20,-1])
+        self.status_bar.SetStatusText('ver.1.0.0', 1)
         self.FONT = wx.Font(FONT_SIZE,
                wx.FONTFAMILY_TELETYPE,
                wx.FONTSTYLE_NORMAL,
@@ -300,9 +303,9 @@ class Base_Panel(wx.Panel):
                 filter_tags = [s for s in tags if filter_name in s]
                 # タグがあるとき
                 if filter_tags:
-                    self.status_bar.SetStatusText(f'{filter_tags[0]}の固有パーク')
+                    self.status_bar.SetStatusText(f'{filter_tags[0]}の固有パーク',0)
                 else:
-                    self.status_bar.SetStatusText(f'{filter_name}は存在しません')
+                    self.status_bar.SetStatusText(f'{filter_name}は存在しません',0)
                     filtered_perks = []
                     self.candidate_list.SetItems(filtered_perks)
                     return False
@@ -353,7 +356,7 @@ class Base_Panel(wx.Panel):
         all_perk = self.perk_class.get_jp_name(self.side)
         self.perk_list = self.character_class.dont_have_perks(self.side, self.char, all_perk)
         self.candidate_list.SetItems(self.perk_list)
-        self.status_bar.SetStatusText(f'{self.char}の所持パークに\"{perk_names}\"追加しました')
+        self.status_bar.SetStatusText(f'{self.char}の所持パークに\"{perk_names}\"追加しました', 0)
         self.filter_textctrl.Clear()
         self.perk_bitmap.SetBitmap(wx.NullBitmap)
     
@@ -365,7 +368,7 @@ class Base_Panel(wx.Panel):
             perk_names.append(self.candidate_list.GetString(i))
         self.character_class.remove_perk(self.side, self.char, perk_names)
         self.perk_list = sorted(self.character_class.json_data[self.side][self.char]['perks'])
-        self.status_bar.SetStatusText(f'{self.char}の所持パークから\"{perk_names}\"を削除しました')
+        self.status_bar.SetStatusText(f'{self.char}の所持パークから\"{perk_names}\"を削除しました', 0)
         self.candidate_list.SetItems(self.perk_list)
         self.filter_textctrl.Clear()
         self.perk_bitmap.SetBitmap(wx.NullBitmap)
@@ -374,7 +377,7 @@ class Base_Panel(wx.Panel):
     def clear_perk(self, event):
         self.character_class.renew_perks(self.side, self.char, [])
         self.perk_list = self.character_class.json_data[self.side][self.char]['perks']
-        self.status_bar.SetStatusText(f'{self.char}の所持パークからすべてのパークを削除しました')
+        self.status_bar.SetStatusText(f'{self.char}の所持パークからすべてのパークを削除しました', 0)
         self.candidate_list.SetItems(self.perk_list)
         self.filter_textctrl.Clear()
         self.perk_bitmap.SetBitmap(wx.NullBitmap)

@@ -464,6 +464,21 @@
             "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/ZanshinTactics.gif",
             "tag": "鬼",
             "image_path": "./image/perks/killer/残心の戦術.png"
+        },
+        "解体": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/Dissolution.gif",
+            "tag": "ドレッジ",
+            "image_path": "./image/perks/killer/解体.png"
+        },
+        "露見する闇": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/DarknessRevealed.gif",
+            "tag": "ドレッジ",
+            "image_path": "./image/perks/killer/露見する闇.png"
+        },
+        "腐敗の気配": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/SepticTouch.gif",
+            "tag": "ドレッジ",
+            "image_path": "./image/perks/killer/腐敗の気配.png"
         }
     },
     "survivor": {
@@ -986,6 +1001,21 @@
             "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/WindowsOfOpportunity.gif",
             "tag": "ケイト・デンソン",
             "image_path": "./image/perks/survivor/ウィンドウズ・オブ・オポチュニティ.png"
+        },
+        "インナーフォーカス": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/InnerFocus.gif",
+            "tag": "ハディ・カウル",
+            "image_path": "./image/perks/survivor/インナーフォーカス.png"
+        },
+        "残像の顕現": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/87/ResidualManifest.gif",
+            "tag": "ハディ・カウル",
+            "image_path": "./image/perks/survivor/残像の顕現.png"
+        },
+        "過剰な熱意": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/Overzealous.gif",
+            "tag": "ハディ・カウル",
+            "image_path": "./image/perks/survivor/過剰な熱意.png"
         }
     }
 }

@@ -81,6 +81,7 @@
                 "監視",
                 "看護婦の使命",
                 "縄張り意識",
+                "腐敗の気配",
                 "興奮",
                 "苦悶の根源",
                 "血の共鳴",
@@ -88,6 +89,7 @@
                 "血の追跡者",
                 "袋小路",
                 "観察＆虐待",
+                "解体",
                 "迫害",
                 "選択は君次第だ",
                 "野蛮な力",
@@ -96,7 +98,8 @@
                 "闇の信仰心",
                 "闇より出でし者",
                 "隠密の追跡",
-                "集団ヒステリー"
+                "集団ヒステリー",
+                "露見する闇"
             ]
         },
         "トラッパー": {
@@ -233,6 +236,11 @@
             "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/K27_charSelect_portrait.png",
             "image_path": "./image/character/killer/怨霊.png",
             "perks": []
+        },
+        "ドレッジ": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/49/K28_charSelect_portrait.png",
+            "image_path": "./image/character/killer/ドレッジ.png",
+            "perks": []
         }
     },
     "survivor": {
@@ -246,6 +254,7 @@
                 "ずっと一緒だ",
                 "アドレナリン",
                 "アフターケア",
+                "インナーフォーカス",
                 "ウィンドウズ・オブ・オポチュニティ",
                 "オフレコ",
                 "カウンターフォース",
@@ -308,6 +317,7 @@
                 "査定",
                 "植物学の知識",
                 "欺き",
+                "残像の顕現",
                 "決死の一撃",
                 "父の助言",
                 "状況認識",
@@ -338,6 +348,7 @@
                 "逆境魂",
                 "透視家",
                 "連帯感",
+                "過剰な熱意",
                 "都会の生存術",
                 "都会の逃走術",
                 "鋼の意志",
@@ -494,6 +505,11 @@
         "浅川陽一": {
             "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/S30_charSelect_portrait.png",
             "image_path": "./image/character/survivor/浅川陽一.png",
+            "perks": []
+        },
+        "ハディ・カウル": {
+            "URL": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/S31_charSelect_portrait.png",
+            "image_path": "./image/character/survivor/ハディ・カウル.png",
             "perks": []
         }
     }

@@ -338,6 +338,11 @@ class Base_Panel(wx.Panel):
 
     # パーク画像表示
     def show_perk_img(self, event): 
+        """パーク画像の表示
+
+        Args:
+            event (event): イベント以外から呼ぶ場合はNULLでOK
+        """
         perk_index = self.candidate_list.GetSelections()
         perk_name = self.candidate_list.GetString(perk_index[-1])
         perk_img_path = self.perk_class.get_img_path(self.side, perk_name)

@@ -2,6 +2,8 @@ import enum
 import json
 
 class Perk:
+    """パークjsonからデータを取得
+    """
     def __init__(self):
         self.perk_json_path = './perk_list.json'
 
@@ -31,6 +33,15 @@ class Perk:
         
     # 画像パスを返す
     def get_img_path(self, side, jp_perk_name):
+        """画像のパスを返す
+
+        Args:
+            side (str): "killer" or "survivor"
+            jp_perk_name (str): 日本語パーク名
+
+        Returns:
+            str : 画像パス
+        """
         img_path = self.json_data[side][jp_perk_name]['image_path']
         
         return img_path
